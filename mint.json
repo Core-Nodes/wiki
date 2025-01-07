@@ -50,5 +50,11 @@
   "footerSocials": {
     "website": "https://core-nodes.ru",
     "discord": "https://discord.gg/corenodes"
-  }
+  },
+  "tabs": [
+    {
+      "name": "Minecraft Guides",
+      "url": "games/minecraft"
+    }
+  ]
 }
