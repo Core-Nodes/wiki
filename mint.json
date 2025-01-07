@@ -17,34 +17,28 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Discord",
+      "url": "https://discord.gg/corenodes"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Join CoreNodes",
+    "url": "https://core-nodes.ru/auth"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
   "anchors": [
     {
       "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://wiki.core-nodes.ru"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "name": "Discord",
+      "icon": "discord",
+      "url": "https://discord.gg/corenodes"
     },
     {
-      "name": "Blog",
-      "icon": "newspaper",
+      "name": "Minecraft Guides",
+      "icon": "boxes-stacked",
       "url": "https://mintlify.com/blog"
     }
   ],
