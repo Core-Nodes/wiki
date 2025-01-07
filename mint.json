@@ -27,11 +27,6 @@
   },
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://wiki.core-nodes.ru"
-    },
-    {
       "name": "Discord",
       "icon": "discord",
       "url": "https://discord.gg/corenodes"
