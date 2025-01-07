@@ -3,7 +3,8 @@
   "name": "Core Nodes Wiki",
   "logo": {
     "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "light": "/logo/light.svg",
+    "href": "https://core-nodes.ru"
   },
   "favicon": "/favicon.svg",
   "colors": {
@@ -48,7 +49,7 @@
     {
       "group": "Minecraft Guides",
       "pages": [
-        "games/minecraft/inroduction"
+        "games/minecraft/introduction"
       ]
     }
   ],
