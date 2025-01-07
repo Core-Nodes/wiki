@@ -35,7 +35,7 @@
     {
       "name": "Minecraft Guides",
       "icon": "cubes",
-      "url": "https://wiki.core-nodes.ru/games/minecraft/introduction"
+      "url": "games/minecraft/introduction"
     }
   ],
   "navigation": [
@@ -51,10 +51,7 @@
     "website": "https://core-nodes.ru",
     "discord": "https://discord.gg/corenodes"
   },
-  "tabs": [
-    {
-      "name": "Minecraft Guides",
-      "url": "games/minecraft"
-    }
-  ]
+  "feedback": {
+    "suggestEdit": true
+  }
 }
