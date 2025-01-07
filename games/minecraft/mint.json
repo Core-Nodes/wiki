@@ -40,11 +40,10 @@
   ],
   "navigation": [
     {
-      "group": "Welcome",
-      "pages": [
-        "introduction",
-        "quickstart"
-      ]
+        "group": "Minecraft Guides",
+        "pages": [
+          "games/minecraft/introduction"
+        ]
     }
   ],
   "footerSocials": {
